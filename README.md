@@ -1,5 +1,5 @@
 # VilaNice.com 🌐
-Vilanice é uma plataforma inovadora de conteúdo educativo e informativo. Nosso objetivo é capacitar e inspirar pessoas por meio de artigos sobre marketing e vendas, desenvolvimento pessoal, negócios, finanças, produtividade e muito mais.
+Vilanice é uma plataforma de conteúdo educativo e informativo. Nosso objetivo é capacitar e inspirar pessoas por meio de artigos sobre marketing e vendas, desenvolvimento pessoal, negócios, finanças, produtividade e muito mais.
 
 # Funcionalidades Principais:
 
